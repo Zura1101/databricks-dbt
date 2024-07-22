@@ -1,10 +1,10 @@
 Welcome to your new dbt project!
 
-### Using the starter project
 
-Try running the following commands:
-- dbt run
-- dbt test
+
+Doing Data Transformation on dataset created using Faker then transforming the data using sql in dbt using the compute of databricks 
+
+For this mini project you need to have databricks account and run dbt in command prompt
 
 
 ### Resources:
